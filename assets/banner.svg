@@ -99,7 +99,8 @@
 <circle cx="1100" cy="196" r="6" fill="#6366F1" filter="url(#glow)"/>
 </g>
 <text x="64" y="128" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="60" font-weight="700" letter-spacing="-1.5" fill="url(#name)">Udbhavi Shetty</text>
-<text x="66" y="172" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22" fill="#A5B4FC">AI/ML student building computer vision and full-stack apps</text>
+<text x="66" y="172" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22" fill="#A5B4FC">AI/ML student building Projects
+</text>
 <rect x="66" y="204" width="150" height="32" rx="16" fill="#6366F1" fill-opacity=".16" stroke="#818CF8" stroke-opacity=".55"/>
 <text x="141.0" y="225" text-anchor="middle" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#C7D2FE">Computer vision</text>
 <rect x="228" y="204" width="128" height="32" rx="16" fill="#6366F1" fill-opacity=".16" stroke="#818CF8" stroke-opacity=".55"/>
